@@ -1,6 +1,6 @@
 {
-  "homepage": "http://mdhiego.github.io/senac-ads-obb",
   "name": "senac-ads-obb",
+  "repository": "http://mdhiego.github.io/senac-ads-obb",
   "author": {
     "name": "Camila Coelho, Dhiego Andrade, Gabriel Augusto, Higor Crisostomo, Joelson Junior"
   },
@@ -8,23 +8,22 @@
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
-    "@types/jest": "^26.0.15",
-    "@types/node": "^12.0.0",
-    "@types/react": "^16.9.53",
-    "@types/react-dom": "^16.9.8",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "@types/jest": "^26.0.24",
+    "@types/node": "^12.20.55",
+    "@types/react": "^16.14.34",
+    "@types/react-dom": "^16.9.17",
     "@types/react-router-dom": "^5.1.7",
-    "axios": "^0.21.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "axios": "^0.21.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-github-btn": "^1.2.0",
     "react-icons": "^4.2.0",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^5.3.4",
     "react-scripts": "4.0.1",
     "react-spinners-css": "^1.2.2",
     "styled-components": "^5.2.1",
-    "typescript": "^4.0.3",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
@@ -56,6 +55,7 @@
   "devDependencies": {
     "@types/react-icons": "^3.0.0",
     "@types/styled-components": "^5.1.7",
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.1.0",
+    "typescript": "^4.9.3"
   }
 }
