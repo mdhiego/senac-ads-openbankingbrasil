@@ -17,7 +17,7 @@ Licença MIT.
 
 # Como executar o projeto
 
-Devem ser executados o seguinte comando na raiz do projeto:
+Deve ser executado o seguinte comando na raiz do projeto:
 
 ```
 yarn install && yarn start
