@@ -96,7 +96,6 @@ export const apis: IApis[] = [
 			},
 		],
 	},
-
 	{
 		endpoint: '/business-credit-cards',
 		banks: [

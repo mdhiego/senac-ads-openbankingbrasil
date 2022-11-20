@@ -27,7 +27,7 @@ export const banks: IBankProps[] = [
 		logoWidth: '40px',
 	},
 	{
-		brandName: 'Banco Bradesco',
+		brandName: 'Banco Bradesco S.A.',
 		companies: ['Banco Bradesco S.A.'],
 		apiUrl: 'https://api.bradesco.com/bradesco',
 		style: { background: 'linear-gradient(180deg, #cc092f 0%, #b2207b 100%)' },
